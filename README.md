@@ -1,2 +1,2 @@
-# tarjeta-de-credito
-mi primer proyecto es un validar un tarjeta de credito
+# Validador de tarjetas bancarias
+Mi proyecto es sobre un validador de tarjetas bancarias para determinar si son validas para compras online
